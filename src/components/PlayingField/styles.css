@@ -1,0 +1,33 @@
+.container {
+    height: 100vh;
+    background: url("../../pictures/back.jpg");
+}
+
+.matrix{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.rain--active{
+    background-image: url("https://i.gifer.com/ZN2f.gif");
+}
+.matrix_string {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container_button{
+    background: linear-gradient(183deg, #80fdfd, #00338a);
+    width: 50px;
+    height: 30px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+}
