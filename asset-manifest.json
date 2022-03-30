@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/water-the-soil/static/css/main.8f7ec43b.css",
+    "main.js": "/water-the-soil/static/js/main.f18ce4f9.js",
+    "static/js/787.ada117ae.chunk.js": "/water-the-soil/static/js/787.ada117ae.chunk.js",
+    "static/media/back.jpg": "/water-the-soil/static/media/back.663da9a96f2bd6c85807.jpg",
+    "index.html": "/water-the-soil/index.html",
+    "main.8f7ec43b.css.map": "/water-the-soil/static/css/main.8f7ec43b.css.map",
+    "main.f18ce4f9.js.map": "/water-the-soil/static/js/main.f18ce4f9.js.map",
+    "787.ada117ae.chunk.js.map": "/water-the-soil/static/js/787.ada117ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f7ec43b.css",
+    "static/js/main.f18ce4f9.js"
+  ]
+}
